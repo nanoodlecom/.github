@@ -18,6 +18,8 @@ Wire up text, image, audio, and video models on a canvas, press ▶, and turn th
 | --- | --- | --- |
 | You want to build or remix a workflow | [nanoodle](https://github.com/nanoodlecom/nanoodle) | The playground — editor, app runtime, the whole site |
 | You want ready-made graphs to start from | [awesome-noodles](https://github.com/nanoodlecom/awesome-noodles) | Curated gallery — open any entry straight onto your canvas |
+| You want to see what people ship with it | [built-with-nanoodle](https://github.com/nanoodlecom/built-with-nanoodle) | Apps people built — every entry opens and runs in your browser |
+| You want a workflow rendered in your page | [noodle-embed](https://github.com/nanoodlecom/noodle-embed) | Embed a graph read-only anywhere — one ES module, zero deps |
 | You want to run a saved graph from Node | [nanoodle-js](https://github.com/nanoodlecom/nanoodle-js) | Zero-dependency JS executor + `npx nanoodle` CLI |
 | …or from Python | [nanoodle-py](https://github.com/nanoodlecom/nanoodle-py) | Zero-dependency Python executor — same graphs, same results |
 | Your AI agent speaks MCP | [nanoodle-mcp](https://github.com/nanoodlecom/nanoodle-mcp) | Your saved workflows as MCP tools, callable from any MCP client |
